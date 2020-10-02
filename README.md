@@ -76,4 +76,14 @@ Make a category for every major expense: Personnel, travel, outsourced programmi
 #### Don’t double-pay
 - AI can help prevent this problem by remembering all invoices and expense reports and their payments and always checking for duplicate spend.
 
-# Benifits
+## Benifits
+### Keeping Your Spend Analysis Up-to-date
+-  With an automated PurchaseControl system, you can use Budget Forecasting to stay on top of every dime your organization spends…and make sure it’s spent efficiently.
+### Ensure contract terms are being fulfilled
+- Verify that suppliers are delivering on their contracts, including turnaround times, quantities, and quality.
+### Direct savings
+- eliminating duplicate orders, or by reducing waste incurred by overbuying – which wastes money, man-hours, and storage space.
+### Manage risk
+- Dealing with preferred vendors may put your supply chain and project progress at risk if the vendor fails.
+
+Source : Internet , Finance , Management
