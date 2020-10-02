@@ -86,4 +86,4 @@ Make a category for every major expense: Personnel, travel, outsourced programmi
 ### Manage risk
 - Dealing with preferred vendors may put your supply chain and project progress at risk if the vendor fails.
 
-Source : Internet , Finance , Management
+****** Source : Internet , Finance , Management ******
